@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-12 15:37">
+<shop>
+<name>Kivi</name>
+<company>Kivi</company>
+<currencies><currency id="UAH" rate="1"/></currencies>
+<categories>
+<category id="139160609">Масажери</category>
+</categories><offers>
+<offer id="2172" available="true">
+<name>Бездротовий масажер для шиї U-подібний з інфрачервоним підігрівом і Type-C, 3 режими, сірий</name>
+<price>855.0</price>
+<currencyId>UAH</currencyId>
+<categoryId>139160609</categoryId>
+<picture>https://raw.githubusercontent.com/AladinBoss/prom-img/main/img/kivi/2172/1.jpg</picture>
+<picture>https://raw.githubusercontent.com/AladinBoss/prom-img/main/img/kivi/2172/2.jpg</picture>
+<picture>https://raw.githubusercontent.com/AladinBoss/prom-img/main/img/kivi/2172/3.jpg</picture>
+<picture>https://raw.githubusercontent.com/AladinBoss/prom-img/main/img/kivi/2172/4.jpg</picture>
+<picture>https://raw.githubusercontent.com/AladinBoss/prom-img/main/img/kivi/2172/5.jpg</picture>
+<picture>https://raw.githubusercontent.com/AladinBoss/prom-img/main/img/kivi/2172/6.jpg</picture>
+<vendorCode>2172</vendorCode>
+<quantity_in_stock>98</quantity_in_stock>
+<description><![CDATA[<p><b>Масажер для шиї у формі підкови</b> створений для тих, хто багато годин проводить за комп'ютером, кермом або в дорозі. Усередині працює механізм, що відтворює розминальні рухи, а разом із вібрацією та інфрачервоним теплом він допомагає зняти скутість у шийному відділі після довгого робочого дня.</p><h2>Як працює</h2><p>Пристрій має два типи масажного впливу — розминання та вібрацію — і три рівні інтенсивності. Підігрів та вібрація вмикаються незалежно, тому ви самі обираєте, яким буде сеанс: лише тепло, лише розминання або все разом. Через приблизно 15 хвилин масажер вимикається автоматично — таймер вбудований.</p><h2>Автономність</h2><p>Живлення від вбудованого акумулятора, заряджання через роз'єм USB Type-C (5 В, потужність 7 Вт). Жодних дротів під час використання — зручно і вдома на дивані, і в автомобілі, і в літаку.</p><h2>Конструкція</h2><ul><li>Ергономічна U-подібна форма підтримує голову і шию у природному положенні.</li><li>М'яке текстильне покриття, приємне до шкіри.</li><li>Регульований шнурок із фіксатором надійно утримує подушку на місці.</li><li>Панель із чотирьох кнопок: живлення, режим (M), підігрів, інтенсивність. Для ввімкнення утримуйте кнопку живлення близько 2 секунд.</li></ul><h2>У коробці</h2><ul><li>Масажна подушка — 1 шт.</li><li>Інструкція — 1 шт.</li><li>Заводська упаковка.</li></ul><p>Колір — сірий. Товар новий.</p>]]></description>
+<keywords>масажер для шиї, масажна подушка для шиї, подушка масажер акумуляторна, масажер шиї з підігрівом, U-подібна масажна подушка, масажер для шиї бездротовий, масажна подушка Type-C, масажер шийно-комірцевої зони, подушка для подорожей з масажем, масажер для шиї в авто, роликовий масажер для шиї, подарунок для офісного працівника</keywords>
+<param name="Виробник">China</param>
+<param name="Країна виробник">Китай</param>
+<param name="Тип">Масажна подушка</param>
+<param name="Вид масажного впливу">Розминання , Вібрація</param>
+<param name="Область масажу">Шия</param>
+<param name="Форма">Підкова</param>
+<param name="Кількість режимів інтенсивності масажу">3</param>
+<param name="Матеріал">Текстиль</param>
+<param name="Колір">Сірий</param>
+<param name="Тип живлення">Акумулятор</param>
+<param name="Споживана потужність">7 Вт</param>
+<param name="Напруга">5 В</param>
+<param name="Стан">Новий</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
